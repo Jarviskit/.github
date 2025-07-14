@@ -70,3 +70,7 @@ JarvisKit was born out of specific needs that required architectural changes at 
 ---
 
 *Choose the right tool for your specific needs. If you need the architectural flexibility that JarvisKit provides, we're here to help. If CopilotKit meets your requirements, it's a fantastic choice.*
+
+*Please note that JarvisKit is undergoing rapid development. As a result, we are currently providing the full source code of the project instead of pre-built libraries. We apologize for any inconvenience this may cause and greatly appreciate your support and contributions.*
+
+*From the JarvisKit team in Hanoi, with ❤️!*
